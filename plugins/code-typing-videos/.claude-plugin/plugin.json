@@ -1,0 +1,11 @@
+{
+  "name": "code-typing-videos",
+  "version": "0.1.0",
+  "description": "Vertical 1080x1920 videos where your text is typed as code, filmed like a macro camera with frag-movie impacts. WebGL engine + Playwright + ffmpeg, no Remotion.",
+  "author": {
+    "name": "Alexandre (@xelandre__)",
+    "url": "https://x.com/xelandre__"
+  },
+  "license": "MIT",
+  "keywords": ["video", "tiktok", "reels", "kinetic-typography", "code", "lyrics", "webgl", "ffmpeg"]
+}

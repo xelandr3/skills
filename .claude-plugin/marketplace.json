@@ -1,0 +1,15 @@
+{
+  "name": "xelandre-skills",
+  "description": "Agent skills by Xelandre (@xelandre__).",
+  "owner": {
+    "name": "Xelandre (@xelandre__)",
+    "url": "https://x.com/xelandre__"
+  },
+  "plugins": [
+    {
+      "name": "code-typing-videos",
+      "source": "./plugins/code-typing-videos",
+      "description": "Vertical 1080x1920 videos where your text is typed as code, filmed like a macro camera with frag-movie impacts. WebGL engine + Playwright + ffmpeg, no Remotion."
+    }
+  ]
+}
